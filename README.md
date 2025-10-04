@@ -11,6 +11,6 @@ This repository highlights projects and coursework completed as part of the MIDS
 ### Coursework
 
 * Research Design and Applications for Data and Analysis
-* Statistics for Data Science *(current TA)*
+* Statistics for Data Science *(current teaching assistant)*
 * Fundamentals of Data Engineering
 * Applied Machine Learning
