@@ -1,6 +1,6 @@
 # ✈️ Neo4 Ways to Fly
 
-**W205 Final Project – Summer 2025**  
+**205 Final Project – Summer 2025**  
 **Authors:** Pedro Alvarez, Kris Mehra, Oleksii Lavrenin, William Seward  
 
 ---
