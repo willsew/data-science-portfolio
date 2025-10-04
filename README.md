@@ -10,7 +10,7 @@ This repository highlights projects and coursework completed as part of the MIDS
 
 ### Coursework
 
-* Research Design and Applications for Data and Analysis
-* Statistics for Data Science *(current teaching assistant)*
-* Fundamentals of Data Engineering
-* Applied Machine Learning
+* DATASCI 201: Research Design and Applications for Data and Analysis
+* DATASCI 203: Statistics for Data Science *(current teaching assistant)*
+* DATASCI 205: Fundamentals of Data Engineering
+* DATASCI 207: Applied Machine Learning
