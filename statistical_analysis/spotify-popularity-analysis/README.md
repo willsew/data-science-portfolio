@@ -1,6 +1,7 @@
 # 🎵 Spotify: Unpacking the Association Between Track Audio Features and Popularity
 
 **203 Final Project – Fall 2024**
+
 **Authors:** Ryan Farhat-Sabet, Maia Kennedy, William Seward  
 
 ---
