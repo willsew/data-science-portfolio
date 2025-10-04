@@ -16,4 +16,4 @@ The project focuses on **route planning**, **airport connectivity**, and **real-
 - Compare monopartite and bipartite graph models  
 - Demonstrate NoSQL synergy for scalability and performance
 
---> More info in 205_final_project
+--> More info in 205_final_project.pdf
