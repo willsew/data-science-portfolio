@@ -15,6 +15,7 @@ Automated fungi classification systems must overcome:
 - Limited labeled data  
 - High visual similarity between species  
 - Strong **class imbalance** across taxonomic classes  
+
 We compare a baseline **Convolutional Neural Network (CNN)** trained on image data alone to a **multi-input neural network** that combines image and metadata features.
 
 ---
