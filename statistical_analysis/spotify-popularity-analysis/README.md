@@ -1,7 +1,7 @@
-# 🎵 Popularity Decoded: Unpacking the Association Between Track Audio Features and Popularity
+# 🎵 Popularity Decoded:
+# Unpacking the Association Between Track Audio Features and Popularity
 
-**DATASCI 203 – Final Project**  
-**University of California, Berkeley**  
+**203 Final Project – Fall 2024**
 **Authors:** Ryan Farhat-Sabet, Maia Kennedy, William Seward  
 
 ---
@@ -20,5 +20,6 @@ The project employs **regression models** to quantify associations, evaluates mo
 > What is the association between *danceability* and *track popularity*?
 
 We extend this inquiry by incorporating additional features such as **energy** and **instrumentalness** to assess whether multivariate models improve explanatory power.
+
 
 --> More info in final_report.pdf
